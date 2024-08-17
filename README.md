@@ -1,4 +1,4 @@
-![App Demo](animation.gif)
+![App Demo](Animation.gif)
 
 # Nuxt 3 Minimal Starter
 
